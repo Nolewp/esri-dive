@@ -167,7 +167,7 @@ const pointGraphic = new Graphic({
   geometry: point,
   symbol: simpleMarkerSymbol
 });
-graphicsLayer.add(pointGraphic);
+
 
   // Create a picture marker symbol for the dive sites
 var diveFlag = new PictureMarkerSymbol({
